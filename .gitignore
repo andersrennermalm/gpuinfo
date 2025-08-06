@@ -1,0 +1,16 @@
+# Build artifacts
+gpuinfo
+*.o
+*.dSYM/
+release/
+
+# macOS
+.DS_Store
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+
+# Swift Package Manager
+.build/
+Package.resolved
