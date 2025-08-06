@@ -73,6 +73,12 @@ ollama run llama2
 
 You should see GPU usage spike when the model is processing requests.
 
+### tmux Status Bar Integration
+
+For beautiful GPU monitoring in your tmux status bar, see the [tmux integration guide](tmux/README.md).
+
+Features dynamic colors that change based on GPU usage - perfect for monitoring AI workloads!
+
 ### Output Examples
 
 **Default output:**
